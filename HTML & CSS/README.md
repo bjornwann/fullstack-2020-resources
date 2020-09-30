@@ -1,4 +1,3 @@
-
 <div align="center">
 <img width="300" src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="HTML & CSS Logotypes">
 </div>
@@ -8,10 +7,10 @@
 This folder contains *recommended* sources of knowledge and is by no means an "official" collection of information. Feel free to add more content as you see fit, but make sure to follow the instructions in the [main guidelines](https://github.com/bjornwann/fullstack-2020-resources/blob/master/README.md)!
 
 ## Contents
-- [YouTube Channels 📺](#channels)
-- [Videos 📹](#videos)
-- [Blogs 📝](#blogs)
-- [Tools / Utilities 🔨](#tools)
+- [YouTube Channels 📺](#youtube-channels-📺)
+- [Videos 📹](#videos-📹)
+- [Blogs 📝](#blogs-📝)
+- [Tools & Recources 🔨](#tools--recources-🔨)
 
 ## YouTube Channels 📺
 |Channel name  | Channel description |
@@ -36,20 +35,20 @@ This folder contains *recommended* sources of knowledge and is by no means an "o
 
 ## Blogs 📝
 
-### Dev.to
+### [Dev.to](https://dev.to)
 - [How to make your HTML responsive by adding a single line of CSS](https://dev.to/scrimba/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-29h)
 - [HTML can do that?](https://dev.to/ananyaneogi/html-can-do-that-c0n)
 - [10 HTML Elements You Didn't Know You Needed](https://dev.to/emmabostian/10-html-element-you-didnt-know-you-needed-3jo4)
-### Medium.com
+### [Medium.com](https://medium.com)
 - [35+ HTML & CSS Resources for Beginners](https://medium.com/level-up-web/30-html-css-resources-for-beginners-4e4d0af4b44b)
 - [HTML and CSS Fundamentals](https://medium.com/@iampika/html-and-css-fundamentals-6b8f7d90911b)
 
-### CSS-Tricks.com
+### [CSS-Tricks.com](https://css-tricks.com/)
 - [Achieving Vertical Alignment (Thanks, Subgrid!)](https://css-tricks.com/achieving-vertical-alignment-thanks-subgrid/)
 - [Using Feature Detection to Write CSS with Cross-Browser Support](https://css-tricks.com/using-feature-detection-to-write-css-with-cross-browser-support/)
 
 
-## Tools / Utilities 🔨
+## Tools & Recources 🔨
 |Name  | Description |
 |--|--|
 |[ColorHunt](https://colorhunt.co/)  | A collection of color palettes |
