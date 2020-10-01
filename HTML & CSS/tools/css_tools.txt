@@ -1,2 +1,0 @@
-color palettes: https://colorhunt.co/
-CSS grid generator (educational purpose, apply it with caution): https://grid.layoutit.com/
