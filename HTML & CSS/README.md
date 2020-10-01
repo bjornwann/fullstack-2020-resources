@@ -10,7 +10,7 @@ This folder contains *recommended* sources of knowledge and is by no means an "o
 - [YouTube Channels 📺](#youtube-channels-)
 - [Videos 📹](#videos-)
 - [Blogs 📝](#blogs-)
-- [Tools & Recources 🔨](#tools--recources-)
+- [Tools & Resources 🔨](#tools--resources-)
 
 ## YouTube Channels 📺
 |Channel name  | Channel description |
@@ -48,7 +48,7 @@ This folder contains *recommended* sources of knowledge and is by no means an "o
 - [Using Feature Detection to Write CSS with Cross-Browser Support](https://css-tricks.com/using-feature-detection-to-write-css-with-cross-browser-support/)
 
 
-## Tools & Recources 🔨
+## Tools & Resources 🔨
 |Name  | Description |
 |--|--|
 |[ColorHunt](https://colorhunt.co/)  | A collection of color palettes |
