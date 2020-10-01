@@ -57,8 +57,9 @@ This folder contains *recommended* sources of knowledge and is by no means an "o
 | [ColorHunt](https://colorhunt.co/) | A collection of color palettes |
 | [Coolors](https://coolors.co/) | Color palette generator using images or color preferences |
 | [Layoutit! Grid generator](https://grid.layoutit.com/) | Generates CSS code using an intutive grid-producing interface |
-| [cssgradient.io](https://cssgradient.io/) | Css gradient generator for the lazy people|
-| [uiGradients](https://uigradients.com/) |A collection of beautiful CSS gradients|
-| [colorsandfonts](https://colorsandfonts.com) |A collection of font pairings, colors and other design resources. 
-| [webdevresources](https://webdevresources.info/) |A collection of tools and inspo-materials (just like this list but better)
+| [cssgradient.io](https://cssgradient.io/) | Css gradient generator for the lazy people |
+| [uiGradients](https://uigradients.com/) | A collection of beautiful CSS gradients |
+| [colorsandfonts](https://colorsandfonts.com) | A collection of font pairings, colors and other design resources. |
+| [webdevresources](https://webdevresources.info/) | A collection of tools and inspo-materials (just like this list but better) |
 | [cssmatic](https://www.cssmatic.com/) | Css gradient, border radius, noise texture and box shadow generator |
+| [1-Line Layouts](https://1linelayouts.glitch.me/) | CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be. |
