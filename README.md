@@ -21,3 +21,7 @@ You are free to collaborate and structure resources in any way you want but keep
 - Think of this as an exercise to use GitHub and don't be afraid to break things. Help each other and use this opportunity to try things out in a collaborative way. 
 - Remember that this is a public repo and everyone who has the link can see it. 
 - Don't publish contact information to other students or copyrighted material
+
+## Contributors
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
