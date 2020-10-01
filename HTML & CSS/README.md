@@ -21,6 +21,7 @@ This folder contains *recommended* sources of knowledge and is by no means an "o
 | [codeSTACKr](https://www.youtube.com/c/codeSTACKr)| Great tutorials for responsive CSS and lots of cool HTML & CSS tricks!
 | [Dev Ed](https://www.youtube.com/c/DevEd) | Great (short) coding challanges such as parallax scrolling, CSS animations and more!
 |[Colt Steele](https://www.youtube.com/c/ColtSteeleCode)|Channel of well-known fullstack developer and udemy teacher Colt Steele
+|.[Kevin Powell].(https://www.youtube.com/c/kevin_powell) | Excellent guide to various CSS concepts and great inspiration for designs.
 
 ## Videos 📹
 - [CSS Pseudo-elements in 100 seconds](https://www.youtube.com/watch?v=e1KpKBHJOrA)
@@ -32,6 +33,7 @@ This folder contains *recommended* sources of knowledge and is by no means an "o
 - [ARIA HTML Tutorial - What is ARIA & Why it's Important to Use!](https://www.youtube.com/watch?v=0hqhAIjE_8I)
 - [The Ultimate CSS3 Flexbox Tutorial - Colt's Code Camp](https://www.youtube.com/watch?v=qZv-rNx0jEA)
 - [Responsive Design & Media Queries In 30ish Minutes - Colt's Code Camp](https://www.youtube.com/watch?v=na-X_SM8vg0)
+- .[Before and After Pseudo elements explained - detailed video series about pseudo-elements and their uses].(https://www.youtube.com/watch?v=zGiirUiWslI&t=1s&ab_channel=KevinPowell)
 
 ## Blogs 📝
 
