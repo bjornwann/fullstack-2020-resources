@@ -16,12 +16,12 @@ This folder contains *recommended* sources of knowledge and is by no means an "o
 |Channel name  | Channel description |
 |--|--|
 | [Fireship.io](https://www.youtube.com/c/AngularFirebase) | High-intensity ⚡ code tutorials to help you build & ship your app faster. 
-|[DesignCourse](https://www.youtube.com/c/DesignCourse)|Tutorials for UI/UX, Frontend Dev, Backend Dev, Graphic Design and more!
+| [DesignCourse](https://www.youtube.com/c/DesignCourse) | Tutorials for UI/UX, Frontend Dev, Backend Dev, Graphic Design and more!
 | [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)| Teaching web development skills and techniques in an efficient and practical manner.
 | [codeSTACKr](https://www.youtube.com/c/codeSTACKr)| Great tutorials for responsive CSS and lots of cool HTML & CSS tricks!
 | [Dev Ed](https://www.youtube.com/c/DevEd) | Great (short) coding challanges such as parallax scrolling, CSS animations and more!
-|[Colt Steele](https://www.youtube.com/c/ColtSteeleCode)|Channel of well-known fullstack developer and udemy teacher Colt Steele
-|.[Kevin Powell].(https://www.youtube.com/c/kevin_powell) | Excellent guide to various CSS concepts and great inspiration for designs.
+| [Colt Steele](https://www.youtube.com/c/ColtSteeleCode) | Channel of well-known fullstack developer and udemy teacher Colt Steele
+| [Kevin Powell](https://www.youtube.com/c/kevin_powell) | Excellent guide to various CSS concepts and great inspiration for designs.
 
 ## Videos 📹
 - [CSS Pseudo-elements in 100 seconds](https://www.youtube.com/watch?v=e1KpKBHJOrA)
@@ -33,7 +33,7 @@ This folder contains *recommended* sources of knowledge and is by no means an "o
 - [ARIA HTML Tutorial - What is ARIA & Why it's Important to Use!](https://www.youtube.com/watch?v=0hqhAIjE_8I)
 - [The Ultimate CSS3 Flexbox Tutorial - Colt's Code Camp](https://www.youtube.com/watch?v=qZv-rNx0jEA)
 - [Responsive Design & Media Queries In 30ish Minutes - Colt's Code Camp](https://www.youtube.com/watch?v=na-X_SM8vg0)
-- .[Before and After Pseudo elements explained - detailed video series about pseudo-elements and their uses].(https://www.youtube.com/watch?v=zGiirUiWslI&t=1s&ab_channel=KevinPowell)
+- [Before and After Pseudo elements explained - detailed video series about pseudo-elements and their uses](https://www.youtube.com/watch?v=zGiirUiWslI&t=1s&ab_channel=KevinPowell)
 
 ## Blogs 📝
 
@@ -53,10 +53,10 @@ This folder contains *recommended* sources of knowledge and is by no means an "o
 ## Tools & Resources 🔨
 |Name  | Description |
 |--|--|
-|[ColorHunt](https://colorhunt.co/)  | A collection of color palettes |
-|[Coolors](https://coolors.co/)  | Color palette generator using images or color preferences |
-|[Layoutit! Grid generator](https://grid.layoutit.com/)  | Generates CSS code using an intutive grid-producing interface |
+| [ColorHunt](https://colorhunt.co/) | A collection of color palettes |
+| [Coolors](https://coolors.co/) | Color palette generator using images or color preferences |
+| [Layoutit! Grid generator](https://grid.layoutit.com/) | Generates CSS code using an intutive grid-producing interface |
 | [cssgradient.io](https://cssgradient.io/) | Css gradient generator for the lazy people|
-| [uiGradients](https://uigradients.com/)|A collection of beautiful CSS gradients|
-| [colorsandfonts](https://colorsandfonts.com)|A collection of font pairings, colors and other design resources. 
-| [webdevresources](https://webdevresources.info/)|A collection of tools and inspo-materials (just like this list but better)
+| [uiGradients](https://uigradients.com/) |A collection of beautiful CSS gradients|
+| [colorsandfonts](https://colorsandfonts.com) |A collection of font pairings, colors and other design resources. 
+| [webdevresources](https://webdevresources.info/) |A collection of tools and inspo-materials (just like this list but better)
