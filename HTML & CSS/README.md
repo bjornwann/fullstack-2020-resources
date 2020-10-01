@@ -23,6 +23,7 @@ This folder contains *recommended* sources of knowledge and is by no means an "o
 | [Colt Steele](https://www.youtube.com/c/ColtSteeleCode) | Channel of well-known fullstack developer and udemy teacher Colt Steele
 | [Kevin Powell](https://www.youtube.com/c/kevin_powell) | Excellent guide to various CSS concepts and great inspiration for designs.
 
+
 ## Videos 📹
 - [CSS Pseudo-elements in 100 seconds](https://www.youtube.com/watch?v=e1KpKBHJOrA)
 - [CSS Animation in 100 seconds](https://www.youtube.com/watch?v=HZHHBwzmJLk)
