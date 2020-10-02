@@ -22,3 +22,4 @@ This folder contains _recommended_ sources of knowledge and is by no means an "o
 | Name                                                                                 | Description                                                   |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
 | [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) | Generates CSS code using an intutive grid-producing interface |
+| [StackEdit](https://stackedit.io/)                                                   | Write MarkDown in the browser with cheatSheet built in        |
