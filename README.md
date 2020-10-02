@@ -68,7 +68,7 @@ To make a PR, please follow the guidelines below.
 
 ## Contributors
 
-<!-- readme: contributors -start -->
+<!-- readme: contributors -start --> 
 <table>
 <tr>
     <td align="center">
