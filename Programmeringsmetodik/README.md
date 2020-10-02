@@ -15,10 +15,7 @@ This folder contains _recommended_ sources of knowledge and is by no means an "o
 | [Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) | About Git branching and merging                                                       |
 | [GitBook](https://git-scm.com/book/en/v2)                                                               | A free comprehensive and complete book about Git                                      |
 | [Learn GitHub](https://try.github.io/)                                                                  | A collection of handbooks, cheatheets and other learning materials to get to know Git |
-
-## Video
-
-- [Net Ninja Git & GitHub Tutorials] (https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+| [Git & GitHub Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)      | A playlist by YouTuber The Net Ninja on how and why to use Git                        |
 
 ## MarkDown
 
