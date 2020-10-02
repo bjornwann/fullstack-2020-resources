@@ -42,7 +42,7 @@ To make a PR, please follow the guidelines below.
 1. Clone the repository to a local folder (Optionally, you may [fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) the repository first) and open it using VSCode (Or using command-line editors such as Vim or Nano)
 2. Make a new branch and name it according to the changes you plan to make. If your intent is to add sources to the HTML & CSS `readme.md` file, you could use a title like "html&css-more-sources" or something along the lines of it.
 3. Code away! Make as many changes as you want, but **keep it together**. Don't stray away from the main objective of the issue you're trying to resolve.
-4. When you're happy with what you've accomplished (You should be! 🙌), push your changes to the new branch and visit the master branch in the browser. A message will be shown, alerting you of the fact that there are unmerged changes in a separate branch.
+4. When you're happy with what you've accomplished (You should be! p), push your changes to the new branch and visit the master branch in the browser. A message will be shown, alerting you of the fact that there are unmerged changes in a separate branch.
 5. There should be a green button labeled "Compare & pull request" - press it to create a new pull request or do so manually by opening your own branch and selecting the "Pull request" option in the upper right-hand corner.
 6. Give the PR a *good title*. It should be just as decriptive as the original issue, but different in a way as this title is supposed to indicate that you fixed the issue.
 7. Provide any additional details, questions and comments in the *body* of the PR. You might want to include a motivation for your changes, or maybe just a summary.
@@ -56,5 +56,93 @@ To make a PR, please follow the guidelines below.
 - Don't publish contact information to other students or copyrighted material
 
 ## Contributors
-<!-- readme: contributors -start -->
+<!-- readme: contributors -start --> 
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/SkySails">
+            <img src="https://avatars3.githubusercontent.com/u/46646495?v=4" width="100;" alt="SkySails"/>
+            <br />
+            <sub><b>Malte</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/bjornwann">
+            <img src="https://avatars1.githubusercontent.com/u/41453215?v=4" width="100;" alt="bjornwann"/>
+            <br />
+            <sub><b>bjornwann</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/hannesqvarnstrom">
+            <img src="https://avatars1.githubusercontent.com/u/70695417?v=4" width="100;" alt="hannesqvarnstrom"/>
+            <br />
+            <sub><b>hannesqvarnstrom</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/r-eldblad">
+            <img src="https://avatars3.githubusercontent.com/u/68613288?v=4" width="100;" alt="r-eldblad"/>
+            <br />
+            <sub><b>r-eldblad</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/EnzoBomark">
+            <img src="https://avatars3.githubusercontent.com/u/71819938?v=4" width="100;" alt="EnzoBomark"/>
+            <br />
+            <sub><b>EnzoBomark</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/apaajarvi">
+            <img src="https://avatars3.githubusercontent.com/u/70699418?v=4" width="100;" alt="apaajarvi"/>
+            <br />
+            <sub><b>apaajarvi</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/danielkarbelius">
+            <img src="https://avatars2.githubusercontent.com/u/70699411?v=4" width="100;" alt="danielkarbelius"/>
+            <br />
+            <sub><b>Daniel Karbelius</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Fijo-Lurk">
+            <img src="https://avatars2.githubusercontent.com/u/70694476?v=4" width="100;" alt="Fijo-Lurk"/>
+            <br />
+            <sub><b>Filip</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ottoreimers">
+            <img src="https://avatars3.githubusercontent.com/u/70694917?v=4" width="100;" alt="ottoreimers"/>
+            <br />
+            <sub><b>Otto Reimers</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Tuliany">
+            <img src="https://avatars2.githubusercontent.com/u/57564014?v=4" width="100;" alt="Tuliany"/>
+            <br />
+            <sub><b>Tuliany</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/yingtong0713">
+            <img src="https://avatars3.githubusercontent.com/u/58979033?v=4" width="100;" alt="yingtong0713"/>
+            <br />
+            <sub><b>yingtong0713</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/johanneslepsius">
+            <img src="https://avatars1.githubusercontent.com/u/71836188?v=4" width="100;" alt="johanneslepsius"/>
+            <br />
+            <sub><b>johanneslepsius</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
