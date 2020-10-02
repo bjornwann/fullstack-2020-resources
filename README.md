@@ -46,7 +46,7 @@ To make a PR, please follow the guidelines below.
 5. There should be a green button labeled "Compare & pull request" - press it to create a new pull request or do so manually by opening your own branch and selecting the "Pull request" option in the upper right-hand corner.
 6. Give the PR a *good title*. It should be just as decriptive as the original issue, but different in a way as this title is supposed to indicate that you fixed the issue.
 7. Provide any additional details, questions and comments in the *body* of the PR. You might want to include a motivation for your changes, or maybe just a summary.
-8. **Assign one ore multiple reviewers**. Do **not** select them undder the "Asignees" section, but rather under the "Reviewers" one.
+8. **Assign one ore multiple reviewers**. Do **not** select them under the "Asignees" section, but rather under the "Reviewers" one.
 9. (Optional) Add a label and link the PR to the project board under the "Projects" section. This will add a "Todo"-note on the board, indicating that your PR needs attention!
 10. Once at least one reviewer has *approved your changes*, you're free to merge the PR into the master branch. 
 
