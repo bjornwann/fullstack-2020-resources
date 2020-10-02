@@ -62,3 +62,4 @@ This folder contains *recommended* sources of knowledge and is by no means an "o
 | [colorsandfonts](https://colorsandfonts.com) |A collection of font pairings, colors and other design resources. 
 | [webdevresources](https://webdevresources.info/) |A collection of tools and inspo-materials (just like this list but better)
 | [cssmatic](https://www.cssmatic.com/) | Css gradient, border radius, noise texture and box shadow generator |
+| [Meta tags generator](https://metatags.io/) | With Meta Tags you can edit and experiment with your content then preview how your webpage will look on the web |
