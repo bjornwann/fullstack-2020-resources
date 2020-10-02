@@ -158,3 +158,8 @@ To make a PR, please follow the guidelines below.
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
+
+## Collaborators
+
+<!-- readme: collaborators -start -->
+<!-- readme: collaborators -end -->
