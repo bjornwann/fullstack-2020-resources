@@ -196,7 +196,7 @@ To make a PR, please follow the guidelines below.
         <a href="https://github.com/bjornwann">
             <img src="https://avatars1.githubusercontent.com/u/41453215?v=4" width="100;" alt="bjornwann"/>
             <br />
-            <sub><b>bjornwann</b></sub>
+            <sub><b>Bjornwann</b></sub>
         </a>
     </td>
     <td align="center">
@@ -232,14 +232,14 @@ To make a PR, please follow the guidelines below.
         <a href="https://github.com/yingtong0713">
             <img src="https://avatars3.githubusercontent.com/u/58979033?v=4" width="100;" alt="yingtong0713"/>
             <br />
-            <sub><b>yingtong0713</b></sub>
+            <sub><b>Yingtong0713</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/joshuaniixon">
             <img src="https://avatars3.githubusercontent.com/u/66698079?v=4" width="100;" alt="joshuaniixon"/>
             <br />
-            <sub><b>joshuaniixon</b></sub>
+            <sub><b>Joshuaniixon</b></sub>
         </a>
     </td>
     <td align="center">
@@ -254,7 +254,7 @@ To make a PR, please follow the guidelines below.
         <a href="https://github.com/r-eldblad">
             <img src="https://avatars3.githubusercontent.com/u/68613288?v=4" width="100;" alt="r-eldblad"/>
             <br />
-            <sub><b>r-eldblad</b></sub>
+            <sub><b>R-eldblad</b></sub>
         </a>
     </td>
     <td align="center">
@@ -282,14 +282,14 @@ To make a PR, please follow the guidelines below.
         <a href="https://github.com/pernilla-hallgren">
             <img src="https://avatars3.githubusercontent.com/u/70695214?v=4" width="100;" alt="pernilla-hallgren"/>
             <br />
-            <sub><b>pernilla-hallgren</b></sub>
+            <sub><b>Pernilla-hallgren</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/natalienilsson93">
             <img src="https://avatars3.githubusercontent.com/u/70695262?v=4" width="100;" alt="natalienilsson93"/>
             <br />
-            <sub><b>natalienilsson93</b></sub>
+            <sub><b>Natalienilsson93</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -304,21 +304,21 @@ To make a PR, please follow the guidelines below.
         <a href="https://github.com/reelode">
             <img src="https://avatars3.githubusercontent.com/u/70695363?v=4" width="100;" alt="reelode"/>
             <br />
-            <sub><b>reelode</b></sub>
+            <sub><b>Reelode</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/hannesqvarnstrom">
             <img src="https://avatars1.githubusercontent.com/u/70695417?v=4" width="100;" alt="hannesqvarnstrom"/>
             <br />
-            <sub><b>hannesqvarnstrom</b></sub>
+            <sub><b>Hannesqvarnstrom</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/jamil-source">
             <img src="https://avatars0.githubusercontent.com/u/70698047?v=4" width="100;" alt="jamil-source"/>
             <br />
-            <sub><b>jamil-source</b></sub>
+            <sub><b>Jamil-source</b></sub>
         </a>
     </td>
     <td align="center">
@@ -332,7 +332,7 @@ To make a PR, please follow the guidelines below.
         <a href="https://github.com/apaajarvi">
             <img src="https://avatars3.githubusercontent.com/u/70699418?v=4" width="100;" alt="apaajarvi"/>
             <br />
-            <sub><b>apaajarvi</b></sub>
+            <sub><b>Apaajarvi</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -340,7 +340,7 @@ To make a PR, please follow the guidelines below.
         <a href="https://github.com/nazaninpouresmaili">
             <img src="https://avatars0.githubusercontent.com/u/70700130?v=4" width="100;" alt="nazaninpouresmaili"/>
             <br />
-            <sub><b>nazaninpouresmaili</b></sub>
+            <sub><b>Nazaninpouresmaili</b></sub>
         </a>
     </td>
     <td align="center">
@@ -368,14 +368,14 @@ To make a PR, please follow the guidelines below.
         <a href="https://github.com/johanneslepsius">
             <img src="https://avatars1.githubusercontent.com/u/71836188?v=4" width="100;" alt="johanneslepsius"/>
             <br />
-            <sub><b>johanneslepsius</b></sub>
+            <sub><b>Johanneslepsius</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/sinwellr">
             <img src="https://avatars0.githubusercontent.com/u/72011666?v=4" width="100;" alt="sinwellr"/>
             <br />
-            <sub><b>sinwellr</b></sub>
+            <sub><b>Sinwellr</b></sub>
         </a>
     </td></tr>
 </table>
