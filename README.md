@@ -107,25 +107,25 @@ To make a PR, please follow the guidelines below.
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Fijo-Lurk">
+            <img src="https://avatars2.githubusercontent.com/u/70694476?v=4" width="100;" alt="Fijo-Lurk"/>
+            <br />
+            <sub><b>Filip</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/apaajarvi">
             <img src="https://avatars3.githubusercontent.com/u/70699418?v=4" width="100;" alt="apaajarvi"/>
             <br />
             <sub><b>Apaajarvi</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/danielkarbelius">
             <img src="https://avatars2.githubusercontent.com/u/70699411?v=4" width="100;" alt="danielkarbelius"/>
             <br />
             <sub><b>Daniel Karbelius</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Fijo-Lurk">
-            <img src="https://avatars2.githubusercontent.com/u/70694476?v=4" width="100;" alt="Fijo-Lurk"/>
-            <br />
-            <sub><b>Filip</b></sub>
         </a>
     </td>
     <td align="center">
