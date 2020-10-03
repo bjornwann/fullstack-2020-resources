@@ -64,4 +64,5 @@ This folder contains *recommended* sources of knowledge and is by no means an "o
 | [cssmatic](https://www.cssmatic.com/) | Css gradient, border radius, noise texture and box shadow generator |
 | [Meta tags generator](https://metatags.io/) | With Meta Tags you can edit and experiment with your content then preview how your webpage will look on the web |
 | [1-Line Layouts](https://1linelayouts.glitch.me/) | CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be. |
+| [W3docs](https://www.w3docs.com/) | W3docs provides great free learning materials for HTML, CSS, JavaScript and more. |
 
