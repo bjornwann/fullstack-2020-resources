@@ -100,17 +100,17 @@ To make a PR, please follow the guidelines below.
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/EnzoBomark">
-            <img src="https://avatars3.githubusercontent.com/u/71819938?v=4" width="100;" alt="EnzoBomark"/>
-            <br />
-            <sub><b>EnzoBomark</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Fijo-Lurk">
             <img src="https://avatars2.githubusercontent.com/u/70694476?v=4" width="100;" alt="Fijo-Lurk"/>
             <br />
             <sub><b>Filip</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/EnzoBomark">
+            <img src="https://avatars3.githubusercontent.com/u/71819938?v=4" width="100;" alt="EnzoBomark"/>
+            <br />
+            <sub><b>EnzoBomark</b></sub>
         </a>
     </td></tr>
 <tr>
