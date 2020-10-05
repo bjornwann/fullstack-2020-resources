@@ -68,7 +68,7 @@ To make a PR, please follow the guidelines below.
 
 ## Contributors
 
-<!-- readme: contributors -start -->
+<!-- readme: contributors -start --> 
 <table>
 <tr>
     <td align="center">
@@ -161,7 +161,7 @@ To make a PR, please follow the guidelines below.
 
 ## Collaborators
 
-<!-- readme: collaborators -start -->
+<!-- readme: collaborators -start --> 
 <table>
 <tr>
     <td align="center">
@@ -354,7 +354,7 @@ To make a PR, please follow the guidelines below.
         <a href="https://github.com/thommie-wallin">
             <img src="https://avatars0.githubusercontent.com/u/70706437?v=4" width="100;" alt="thommie-wallin"/>
             <br />
-            <sub><b>thommie-wallin</b></sub>
+            <sub><b>Thommie-wallin</b></sub>
         </a>
     </td>
     <td align="center">
