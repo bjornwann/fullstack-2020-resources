@@ -325,7 +325,7 @@ To make a PR, please follow the guidelines below.
         <a href="https://github.com/kabbeleros">
             <img src="https://avatars.githubusercontent.com/u/70699411?v=4" width="100;" alt="kabbeleros"/>
             <br />
-            <sub><b>kabbeleros</b></sub>
+            <sub><b>Kabbeleros</b></sub>
         </a>
     </td></tr>
 <tr>
