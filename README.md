@@ -73,42 +73,42 @@ To make a PR, please follow the guidelines below.
 <tr>
     <td align="center">
         <a href="https://github.com/SkySails">
-            <img src="https://avatars3.githubusercontent.com/u/46646495?v=4" width="100;" alt="SkySails"/>
+            <img src="https://avatars.githubusercontent.com/u/46646495?v=4" width="100;" alt="SkySails"/>
             <br />
             <sub><b>Malte</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/bjornwann">
-            <img src="https://avatars1.githubusercontent.com/u/41453215?v=4" width="100;" alt="bjornwann"/>
+            <img src="https://avatars.githubusercontent.com/u/41453215?v=4" width="100;" alt="bjornwann"/>
             <br />
             <sub><b>Bjornwann</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/hannesqvarnstrom">
-            <img src="https://avatars1.githubusercontent.com/u/70695417?v=4" width="100;" alt="hannesqvarnstrom"/>
+            <img src="https://avatars.githubusercontent.com/u/70695417?v=4" width="100;" alt="hannesqvarnstrom"/>
             <br />
             <sub><b>Hannesqvarnstrom</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/r-eldblad">
-            <img src="https://avatars3.githubusercontent.com/u/68613288?v=4" width="100;" alt="r-eldblad"/>
+            <img src="https://avatars.githubusercontent.com/u/68613288?v=4" width="100;" alt="r-eldblad"/>
             <br />
             <sub><b>R-eldblad</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/Fijo-Lurk">
-            <img src="https://avatars2.githubusercontent.com/u/70694476?v=4" width="100;" alt="Fijo-Lurk"/>
+            <img src="https://avatars.githubusercontent.com/u/70694476?v=4" width="100;" alt="Fijo-Lurk"/>
             <br />
             <sub><b>Filip</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/EnzoBomark">
-            <img src="https://avatars3.githubusercontent.com/u/71819938?v=4" width="100;" alt="EnzoBomark"/>
+            <img src="https://avatars.githubusercontent.com/u/71819938?v=4" width="100;" alt="EnzoBomark"/>
             <br />
             <sub><b>EnzoBomark</b></sub>
         </a>
@@ -116,42 +116,35 @@ To make a PR, please follow the guidelines below.
 <tr>
     <td align="center">
         <a href="https://github.com/apaajarvi">
-            <img src="https://avatars3.githubusercontent.com/u/70699418?v=4" width="100;" alt="apaajarvi"/>
+            <img src="https://avatars.githubusercontent.com/u/70699418?v=4" width="100;" alt="apaajarvi"/>
             <br />
             <sub><b>Apaajarvi</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/danielkarbelius">
-            <img src="https://avatars2.githubusercontent.com/u/70699411?v=4" width="100;" alt="danielkarbelius"/>
-            <br />
-            <sub><b>Daniel Karbelius</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ottoreimers">
-            <img src="https://avatars3.githubusercontent.com/u/70694917?v=4" width="100;" alt="ottoreimers"/>
+            <img src="https://avatars.githubusercontent.com/u/70694917?v=4" width="100;" alt="ottoreimers"/>
             <br />
             <sub><b>Otto Reimers</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/Tuliany">
-            <img src="https://avatars2.githubusercontent.com/u/57564014?v=4" width="100;" alt="Tuliany"/>
+            <img src="https://avatars.githubusercontent.com/u/57564014?v=4" width="100;" alt="Tuliany"/>
             <br />
             <sub><b>Tuliany</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/yingtong0713">
-            <img src="https://avatars3.githubusercontent.com/u/58979033?v=4" width="100;" alt="yingtong0713"/>
+            <img src="https://avatars.githubusercontent.com/u/58979033?v=4" width="100;" alt="yingtong0713"/>
             <br />
             <sub><b>Yingtong0713</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/johanneslepsius">
-            <img src="https://avatars1.githubusercontent.com/u/71836188?v=4" width="100;" alt="johanneslepsius"/>
+            <img src="https://avatars.githubusercontent.com/u/71836188?v=4" width="100;" alt="johanneslepsius"/>
             <br />
             <sub><b>Johanneslepsius</b></sub>
         </a>
@@ -166,42 +159,42 @@ To make a PR, please follow the guidelines below.
 <tr>
     <td align="center">
         <a href="https://github.com/Jakob96">
-            <img src="https://avatars2.githubusercontent.com/u/12053299?v=4" width="100;" alt="Jakob96"/>
+            <img src="https://avatars.githubusercontent.com/u/12053299?v=4" width="100;" alt="Jakob96"/>
             <br />
             <sub><b>Jakob96</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/moh3ni">
-            <img src="https://avatars0.githubusercontent.com/u/12123530?v=4" width="100;" alt="moh3ni"/>
+            <img src="https://avatars.githubusercontent.com/u/12123530?v=4" width="100;" alt="moh3ni"/>
             <br />
             <sub><b>Zia</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/Aiiion">
-            <img src="https://avatars2.githubusercontent.com/u/21305517?v=4" width="100;" alt="Aiiion"/>
+            <img src="https://avatars.githubusercontent.com/u/21305517?v=4" width="100;" alt="Aiiion"/>
             <br />
             <sub><b>Alex Bierhance</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/noumananjum">
-            <img src="https://avatars1.githubusercontent.com/u/36538028?v=4" width="100;" alt="noumananjum"/>
+            <img src="https://avatars.githubusercontent.com/u/36538028?v=4" width="100;" alt="noumananjum"/>
             <br />
             <sub><b>Nouman Anjum</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/bjornwann">
-            <img src="https://avatars1.githubusercontent.com/u/41453215?v=4" width="100;" alt="bjornwann"/>
+            <img src="https://avatars.githubusercontent.com/u/41453215?v=4" width="100;" alt="bjornwann"/>
             <br />
             <sub><b>Bjornwann</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/SkySails">
-            <img src="https://avatars3.githubusercontent.com/u/46646495?v=4" width="100;" alt="SkySails"/>
+            <img src="https://avatars.githubusercontent.com/u/46646495?v=4" width="100;" alt="SkySails"/>
             <br />
             <sub><b>Malte</b></sub>
         </a>
@@ -209,42 +202,42 @@ To make a PR, please follow the guidelines below.
 <tr>
     <td align="center">
         <a href="https://github.com/fascha007">
-            <img src="https://avatars0.githubusercontent.com/u/49960705?v=4" width="100;" alt="fascha007"/>
+            <img src="https://avatars.githubusercontent.com/u/49960705?v=4" width="100;" alt="fascha007"/>
             <br />
             <sub><b>Fasceta Thorzell</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/sandstedterik">
-            <img src="https://avatars1.githubusercontent.com/u/52541481?v=4" width="100;" alt="sandstedterik"/>
+            <img src="https://avatars.githubusercontent.com/u/52541481?v=4" width="100;" alt="sandstedterik"/>
             <br />
             <sub><b>Erik Sandstedt</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/Braggedtooth">
-            <img src="https://avatars2.githubusercontent.com/u/54339202?v=4" width="100;" alt="Braggedtooth"/>
+            <img src="https://avatars.githubusercontent.com/u/54339202?v=4" width="100;" alt="Braggedtooth"/>
             <br />
             <sub><b>Braggedtooth</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/yingtong0713">
-            <img src="https://avatars3.githubusercontent.com/u/58979033?v=4" width="100;" alt="yingtong0713"/>
+            <img src="https://avatars.githubusercontent.com/u/58979033?v=4" width="100;" alt="yingtong0713"/>
             <br />
             <sub><b>Yingtong0713</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/murtazaIO">
-            <img src="https://avatars1.githubusercontent.com/u/62187610?v=4" width="100;" alt="murtazaIO"/>
+            <img src="https://avatars.githubusercontent.com/u/62187610?v=4" width="100;" alt="murtazaIO"/>
             <br />
             <sub><b>Murtaza Mohseni</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/joshuaniixon">
-            <img src="https://avatars3.githubusercontent.com/u/66698079?v=4" width="100;" alt="joshuaniixon"/>
+            <img src="https://avatars.githubusercontent.com/u/66698079?v=4" width="100;" alt="joshuaniixon"/>
             <br />
             <sub><b>Joshuaniixon</b></sub>
         </a>
@@ -252,42 +245,42 @@ To make a PR, please follow the guidelines below.
 <tr>
     <td align="center">
         <a href="https://github.com/stenwall">
-            <img src="https://avatars0.githubusercontent.com/u/66753700?v=4" width="100;" alt="stenwall"/>
+            <img src="https://avatars.githubusercontent.com/u/66753700?v=4" width="100;" alt="stenwall"/>
             <br />
             <sub><b>Karin</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/r-eldblad">
-            <img src="https://avatars3.githubusercontent.com/u/68613288?v=4" width="100;" alt="r-eldblad"/>
+            <img src="https://avatars.githubusercontent.com/u/68613288?v=4" width="100;" alt="r-eldblad"/>
             <br />
             <sub><b>R-eldblad</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/LinusUnghammar">
-            <img src="https://avatars1.githubusercontent.com/u/70320500?v=4" width="100;" alt="LinusUnghammar"/>
+            <img src="https://avatars.githubusercontent.com/u/70320500?v=4" width="100;" alt="LinusUnghammar"/>
             <br />
             <sub><b>LinusUnghammar</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/Fijo-Lurk">
-            <img src="https://avatars2.githubusercontent.com/u/70694476?v=4" width="100;" alt="Fijo-Lurk"/>
+            <img src="https://avatars.githubusercontent.com/u/70694476?v=4" width="100;" alt="Fijo-Lurk"/>
             <br />
             <sub><b>Filip</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/ottoreimers">
-            <img src="https://avatars3.githubusercontent.com/u/70694917?v=4" width="100;" alt="ottoreimers"/>
+            <img src="https://avatars.githubusercontent.com/u/70694917?v=4" width="100;" alt="ottoreimers"/>
             <br />
             <sub><b>Otto Reimers</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/pernilla-hallgren">
-            <img src="https://avatars3.githubusercontent.com/u/70695214?v=4" width="100;" alt="pernilla-hallgren"/>
+            <img src="https://avatars.githubusercontent.com/u/70695214?v=4" width="100;" alt="pernilla-hallgren"/>
             <br />
             <sub><b>Pernilla-hallgren</b></sub>
         </a>
@@ -295,85 +288,85 @@ To make a PR, please follow the guidelines below.
 <tr>
     <td align="center">
         <a href="https://github.com/natalienilsson93">
-            <img src="https://avatars3.githubusercontent.com/u/70695262?v=4" width="100;" alt="natalienilsson93"/>
+            <img src="https://avatars.githubusercontent.com/u/70695262?v=4" width="100;" alt="natalienilsson93"/>
             <br />
             <sub><b>Natalienilsson93</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/Talica2005">
-            <img src="https://avatars2.githubusercontent.com/u/70695294?v=4" width="100;" alt="Talica2005"/>
+            <img src="https://avatars.githubusercontent.com/u/70695294?v=4" width="100;" alt="Talica2005"/>
             <br />
             <sub><b>Tatjana Albairmani</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/reelode">
-            <img src="https://avatars3.githubusercontent.com/u/70695363?v=4" width="100;" alt="reelode"/>
+            <img src="https://avatars.githubusercontent.com/u/70695363?v=4" width="100;" alt="reelode"/>
             <br />
             <sub><b>Reelode</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/hannesqvarnstrom">
-            <img src="https://avatars1.githubusercontent.com/u/70695417?v=4" width="100;" alt="hannesqvarnstrom"/>
+            <img src="https://avatars.githubusercontent.com/u/70695417?v=4" width="100;" alt="hannesqvarnstrom"/>
             <br />
             <sub><b>Hannesqvarnstrom</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/jamil-source">
-            <img src="https://avatars0.githubusercontent.com/u/70698047?v=4" width="100;" alt="jamil-source"/>
+            <img src="https://avatars.githubusercontent.com/u/70698047?v=4" width="100;" alt="jamil-source"/>
             <br />
             <sub><b>Jamil-source</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/danielkarbelius">
-            <img src="https://avatars2.githubusercontent.com/u/70699411?v=4" width="100;" alt="danielkarbelius"/>
+        <a href="https://github.com/kabbeleros">
+            <img src="https://avatars.githubusercontent.com/u/70699411?v=4" width="100;" alt="kabbeleros"/>
             <br />
-            <sub><b>Daniel Karbelius</b></sub>
+            <sub><b>kabbeleros</b></sub>
         </a>
     </td></tr>
 <tr>
     <td align="center">
         <a href="https://github.com/apaajarvi">
-            <img src="https://avatars3.githubusercontent.com/u/70699418?v=4" width="100;" alt="apaajarvi"/>
+            <img src="https://avatars.githubusercontent.com/u/70699418?v=4" width="100;" alt="apaajarvi"/>
             <br />
             <sub><b>Apaajarvi</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/nazaninpouresmaili">
-            <img src="https://avatars0.githubusercontent.com/u/70700130?v=4" width="100;" alt="nazaninpouresmaili"/>
+            <img src="https://avatars.githubusercontent.com/u/70700130?v=4" width="100;" alt="nazaninpouresmaili"/>
             <br />
             <sub><b>Nazaninpouresmaili</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/thommie-wallin">
-            <img src="https://avatars0.githubusercontent.com/u/70706437?v=4" width="100;" alt="thommie-wallin"/>
+            <img src="https://avatars.githubusercontent.com/u/70706437?v=4" width="100;" alt="thommie-wallin"/>
             <br />
             <sub><b>Thommie-wallin</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/SuperNorvi">
-            <img src="https://avatars2.githubusercontent.com/u/70971745?v=4" width="100;" alt="SuperNorvi"/>
+            <img src="https://avatars.githubusercontent.com/u/70971745?v=4" width="100;" alt="SuperNorvi"/>
             <br />
             <sub><b>Roland Choueiry</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/EnzoBomark">
-            <img src="https://avatars3.githubusercontent.com/u/71819938?v=4" width="100;" alt="EnzoBomark"/>
+            <img src="https://avatars.githubusercontent.com/u/71819938?v=4" width="100;" alt="EnzoBomark"/>
             <br />
             <sub><b>EnzoBomark</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/katepettersson">
-            <img src="https://avatars2.githubusercontent.com/u/71820025?v=4" width="100;" alt="katepettersson"/>
+            <img src="https://avatars.githubusercontent.com/u/71820025?v=4" width="100;" alt="katepettersson"/>
             <br />
             <sub><b>Kate Pettersson</b></sub>
         </a>
