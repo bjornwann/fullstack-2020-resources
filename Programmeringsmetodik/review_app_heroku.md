@@ -56,14 +56,15 @@ lägg till "compile" under scripts i composer.json
 ### Procfile
 
 Ändra i Procfile (inställningsfil för Heroku) i root i projektet och lägg till följande rad på slutet:
-release: php artisan migrate --force && php artisan cache:clear && php artisan config:cache
+release: 
+`php artisan migrate --force && php artisan cache:clear && php artisan config:cache`
 
 ### app.php
 
 Ändra i app.php (\config\app.php)
 
 under App URL ersätt `'url' => env('APP_URL', 'http://localhost'),` med följande
-'url' => env('APP_URL', env('HEROKU_APP_NAME') ? 'https://' . env('HEROKU_APP_NAME') . '.herokuapp.com' : 'http://localhost'),
+    'url' => env('APP_URL', env('HEROKU_APP_NAME') ? 'https://' . env('HEROKU_APP_NAME') . '.herokuapp.com' : 'http://localhost'),
 
 under Encryption key ersätt `'key' => env('APP_KEY'),` med nedan för att unvdika fel med kryptering mellan Heroku och Laravel
 
